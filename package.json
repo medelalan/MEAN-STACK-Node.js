@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Hello, Welcome to our mean stack! We will be showing some of the tutorials that we used making this project.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medelalan/MEAN-STACK-Node.js.git"
+  },
+  "author": "Alan Medel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medelalan/MEAN-STACK-Node.js/issues"
+  },
+  "homepage": "https://github.com/medelalan/MEAN-STACK-Node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
